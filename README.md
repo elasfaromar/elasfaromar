@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @omar-egy. My name is Omar!
+- 👋 Hi, I’m @elasfaromar. My name is Omar!
 - 👀 I’m interested in programming. I also like watching soccer, basketball, and F1.
-- 🌱 I’m currently enrolled at Carleton University, majoring in Computer Science and minoring in Statistics. I am currently in the process of learning Python, HTML, CSS, C#, and JavaScript. I am also increasing my knowledge in Java by implementing data structures into my projects.
-- 💞️ I’m looking to collaborate on any projects in the following languages: Java, Python, HTML, C#, CSS, and JavaScript
+- 🌱 I’m currently enrolled at Carleton University, majoring in Computer Science and minoring in Statistics. I am currently in the process of learning Python, Java, C and JavaScript. I am also increasing my knowledge in Java by implementing data structures into my projects.
+- 💞️ I’m looking to collaborate on any projects in the following languages: Java, Python, and C
 - 📫 You can reach me via email: omarelasfaregy17@gmail.com or instagram: @onaromara
 
 <!---
