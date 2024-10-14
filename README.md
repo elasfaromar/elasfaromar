@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @elasfaromar. My name is Omar!
-- 👀 I’m interested in programming. I also like watching soccer, basketball, and F1.
-- 🌱 I’m currently enrolled at Carleton University, majoring in Computer Science and minoring in Statistics. I am currently in the process of learning Python, Java, C and JavaScript.
-- 💞️ I’m looking to collaborate on any projects in the following languages: Python, Java, C and JavaScript
-- 📫 You can reach me via email: omarelasfaregy17@gmail.com or instagram: @onaromara
+👋 Hi, I'm Omar Elasfar
+🚀 Computer Science Student | Software Engineer (Co-op)
+📍 Based in Ottawa, ON | Studying at Carleton University
 
-<!---
-omar-egy/omar-egy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm passionate about solving real-world problems through technology. With strong skills in Java, C, Python, and JavaScript, I have experience building full stack applications, working with REST APIs, and utilizing machine learning in projects. I enjoy collaborating on innovative solutions and constantly pushing the boundaries of my knowledge.
+
+🛠️ Technologies & Tools:
+
+Programming: Java, C, Python, JavaScript, SQL, HTML, CSS/SCSS
+Tools: Git, VS Code, IntelliJ, Linux (Ubuntu), GitHub, Bash
+Concepts: Data Structures, Algorithms, Software Engineering, Relational Databases, REST APIs, HTTP Requests
+💡 Notable Projects:
+
+CarMatch AI: AI-powered car matching platform using Python, JavaScript, and SQL
+MyPal: Full stack text-based reminder app, leveraging Twilio API
+InternshipsCanada: Web scraper for job postings using Python and BeautifulSoup
+Let's connect and build something great together!
