@@ -12,6 +12,6 @@ I'm passionate about solving real-world problems through technology. With strong
 ### 💡 Notable Projects:  
 - **CarMatch AI:** AI-powered car matching platform using Python, JavaScript, and SQL  
 - **MyPal:** Full stack text-based reminder app, leveraging Twilio API  
-- **InternshipsCanada:** Web scraper for job postings using Python and BeautifulSoup  
+- **InternshipsCanada:** Web scraper for job postings using Python and Scrapy  
 
 Let's connect and build something great together!
