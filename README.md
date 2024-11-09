@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Omar Elasfar  
-### 🚀 Computer Science Student | Software Engineer (Co-op)  
+### 🚀 Computer Science Student | Software Engineer  
 📍 Based in Ottawa, ON | Studying at Carleton University
 
 I'm passionate about solving real-world problems through technology. With strong skills in **Java**, **C**, **Python**, and **JavaScript**, I have experience building **full stack applications**, working with **REST APIs**, and utilizing **machine learning** in projects. I enjoy collaborating on innovative solutions and constantly pushing the boundaries of my knowledge.
